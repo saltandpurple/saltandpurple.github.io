@@ -1,3 +1,3 @@
-# Your blog
+All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+![Image of fast.ai logo](images/logo.png)
